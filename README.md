@@ -1,1 +1,1 @@
-# Heart_Disease_Diagnostic_Analysis
+This project analyzes key risk factors for heart disease using demographic and medical data to identify patterns for early diagnosis and targeted interventions. It explores correlations between variables like age, blood pressure, cholesterol, and heart rate to highlight significant indicators. Tools used include Power BI for visualization and Jupyter Notebook for data analysis.
